@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="My Application" Height="350" Width="525">
     <Grid>
-        <Button Content="Message" Style="{StaticResource ButtonStyle}" HorizontalAlignment="Left" Height="40" Margin="190,55,0,0" VerticalAlignment="Top" Width="117" Click="Button_Click" Background="#FFF09419" BorderBrush="#FF4F446B" FontFamily="Tahoma" FontSize="18"/>
+        <Button Content="Abhijit Nice Teaching" Style="{StaticResource ButtonStyle}" HorizontalAlignment="Left" Height="40" Margin="190,55,0,0" VerticalAlignment="Top" Width="117" Click="Button_Click" Background="#FFF09419" BorderBrush="#FF4F446B" FontFamily="Tahoma" FontSize="18"/>
 
     </Grid>
 </Window>
